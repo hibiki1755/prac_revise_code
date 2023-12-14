@@ -1,1 +1,1 @@
-# prac_revise_code
+# リファクタリングの練習
